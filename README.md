@@ -19,7 +19,7 @@ Where you can use it
 
 Usage
 -----
-Copy [fopenhelper] into your project. If you need some domes you can explore [fopenhelper-demos] where you can find more.
+Copy [fopenhelper] into your project. If you need some more informations and demes you can explore [fopenhelper-demos] where you can find more.
 
 License
 -------
