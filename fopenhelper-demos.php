@@ -5,7 +5,7 @@
  * Martin Mareš, http://profiles.google.com/mmrmartin
  * Writen in 2010.
  *******************************************************************************
- * Demos whith demonstrating using fopenhelper
+ * Demos whitch demonstrating using fopenhelper
  *******************************************************************************
  * “THE BEER-WARE LICENSE”:
  * Martin Mareš wrote this file (or after changes by someone else at least a 
