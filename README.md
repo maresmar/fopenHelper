@@ -23,7 +23,7 @@ Copy [fopenhelper] into your project. If you need some domes you can explore [fo
 
 License
 -------
-**THE BEER-WARE LICENSE”:**  
+**THE BEER-WARE LICENSE:**  
 Martin Mareš wrote this file (or after changes by someone else at least a part of this file). As long as you retain this notice you can do whatever 
 you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
 
