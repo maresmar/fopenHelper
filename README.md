@@ -3,8 +3,8 @@ fopenhelper README
 
 Fopenhelper is class whitch helps you browsing web pages throught http(s) in you php code. Class helps you handle cookies a works good with redirections.
 
-What it do
-----------
+What it does
+------------
 * automaticly saves cookies from stream
 * gives cookies like you web browser - just with the page have to get
 * sets different host in cookie after redirection in web page
