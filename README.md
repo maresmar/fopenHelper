@@ -6,8 +6,8 @@ Fopenhelper is class whitch helps you browsing web pages throught http(s) in you
 What it does
 ------------
 * automaticly saves cookies from stream
-* gives cookies like you web browser - just with the page have to get
-* sets different host in cookie after redirection in web page
+* gives cookies like you web browser - gives only cookeies which the page have to get
+* sets different host in cookies after redirection in web page
 
 Where you can use it
 --------------------
